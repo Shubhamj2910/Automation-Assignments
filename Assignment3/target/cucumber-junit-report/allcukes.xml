@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="72.029822">
+<testcase classname="Checking article of HuffingtonPost website" name="HuffingtonPost website exists" time="72.029822">
+<system-out><![CDATA[Given I have open the browser...............................................passed
+When I open HuffingtonPost website..........................................passed
+Then LifeStyle label should exits...........................................passed
+And Click on Lifestyle tab..................................................passed
+And verify tech link is visible.............................................passed
+And Select tech link........................................................passed
+And verify title of tech page...............................................passed
+And Read Articles Data and verify links.....................................passed
+]]></system-out>
+</testcase>
+</testsuite>
