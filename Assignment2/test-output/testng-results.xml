@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45718" started-at="2017-06-15T09:27:07Z" finished-at="2017-06-15T09:27:53Z">
+    <groups>
+      <group name="assignment2.HuffingtonPost">
+        <method signature="Huffingtonpost_test.test()[pri:0, instance:test.Huffingtonpost_test@d8355a8]" name="test" class="test.Huffingtonpost_test"/>
+      </group> <!-- assignment2.HuffingtonPost -->
+    </groups>
+    <test name="Default test" duration-ms="45718" started-at="2017-06-15T09:27:07Z" finished-at="2017-06-15T09:27:53Z">
+      <class name="test.Huffingtonpost_test">
+        <test-method status="PASS" signature="Driversetup()[pri:0, instance:test.Huffingtonpost_test@d8355a8]" name="Driversetup" is-config="true" duration-ms="14006" started-at="2017-06-15T14:57:07Z" finished-at="2017-06-15T14:57:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Driversetup -->
+        <test-method status="PASS" signature="test()[pri:0, instance:test.Huffingtonpost_test@d8355a8]" name="test" duration-ms="29265" started-at="2017-06-15T14:57:21Z" finished-at="2017-06-15T14:57:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="freeResource()[pri:0, instance:test.Huffingtonpost_test@d8355a8]" name="freeResource" is-config="true" duration-ms="2427" started-at="2017-06-15T14:57:51Z" finished-at="2017-06-15T14:57:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- freeResource -->
+      </class> <!-- test.Huffingtonpost_test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
